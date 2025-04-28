@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.quizop.cookme",
+      "sha256_cert_fingerprints": [
+        "E1:49:60:D4:E5:23:73:81:C7:56:A2:2B:EC:B3:BC:90:95:4C:5B:E0:14:09:C2:F5:B9:CA:A4:2C:B7:9F:9C:AF"
+      ]
+    }
+  }
+]
